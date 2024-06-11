@@ -1,2 +1,2 @@
-# Monthly_flood_mortality_US
-Floods and cause-specific mortality in the United States
+# Floods and cause-specific mortality in the United States: A triply robust approach
+Example R codes for the trip robust approach
